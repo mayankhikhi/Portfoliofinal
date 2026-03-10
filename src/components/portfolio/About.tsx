@@ -15,7 +15,7 @@ const About = () => {
           <span className="text-foreground font-medium">Python</span>,{" "}
           <span className="text-foreground font-medium">Flask</span>,{" "}
           <span className="text-foreground font-medium">JavaScript</span>, and modern frontend tools like
-          Tailwind CSS. Passionate about creating interactive applications and exploring game development
+          <span className="text-foreground font-medium">Tailwind CSS</span>. Passionate about creating interactive applications and exploring game development
           with <span className="text-foreground font-medium">Godot Engine</span>. Built multiple projects
           from scratch and led development in the Smart India Hackathon internal round.
         </p>
